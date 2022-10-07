@@ -10,3 +10,9 @@ body {
 .movie-app > .row > * {
 width: auto; 
  }
+
+
+ .image-container:hover {
+	cursor: pointer;
+	transform: scale(1.1);
+}
