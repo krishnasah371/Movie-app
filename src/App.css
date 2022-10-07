@@ -37,3 +37,7 @@ width: auto;
 	padding: 20px;
 	text-align: center;
 }
+
+.btn {
+  color: green!important;
+}
